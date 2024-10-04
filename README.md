@@ -1,1 +1,1 @@
-# Javascript_Project
+This is a **Recipe App** where users can search for recipes by ingredients or dish names. It fetches data from a recipe API and displays detailed information like ingredients, cooking instructions, and images of the dish.
